@@ -1,0 +1,13 @@
+D:\Программирование\ASP.NET\FitnessApp2021\FitnessApp.BL\bin\Debug\netcoreapp3.1\FitnessApp.BL.deps.json
+D:\Программирование\ASP.NET\FitnessApp2021\FitnessApp.BL\bin\Debug\netcoreapp3.1\FitnessApp.BL.dll
+D:\Программирование\ASP.NET\FitnessApp2021\FitnessApp.BL\bin\Debug\netcoreapp3.1\FitnessApp.BL.pdb
+D:\Программирование\ASP.NET\FitnessApp2021\FitnessApp.BL\obj\Debug\netcoreapp3.1\FitnessApp.BL.csproj.AssemblyReference.cache
+D:\Программирование\ASP.NET\FitnessApp2021\FitnessApp.BL\obj\Debug\netcoreapp3.1\FitnessApp.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Программирование\ASP.NET\FitnessApp2021\FitnessApp.BL\obj\Debug\netcoreapp3.1\FitnessApp.BL.AssemblyInfoInputs.cache
+D:\Программирование\ASP.NET\FitnessApp2021\FitnessApp.BL\obj\Debug\netcoreapp3.1\FitnessApp.BL.AssemblyInfo.cs
+D:\Программирование\ASP.NET\FitnessApp2021\FitnessApp.BL\obj\Debug\netcoreapp3.1\FitnessApp.BL.csproj.CoreCompileInputs.cache
+D:\Программирование\ASP.NET\FitnessApp2021\FitnessApp.BL\obj\Debug\netcoreapp3.1\FitnessApp.BL.dll
+D:\Программирование\ASP.NET\FitnessApp2021\FitnessApp.BL\obj\Debug\netcoreapp3.1\FitnessApp.BL.pdb
+D:\Программирование\ASP.NET\FitnessApp2021\FitnessApp.BL\bin\Debug\netcoreapp3.1\FitnessApp.BL.runtimeconfig.json
+D:\Программирование\ASP.NET\FitnessApp2021\FitnessApp.BL\bin\Debug\netcoreapp3.1\FitnessApp.BL.runtimeconfig.dev.json
+D:\Программирование\ASP.NET\FitnessApp2021\FitnessApp.BL\obj\Debug\netcoreapp3.1\FitnessApp.BL.genruntimeconfig.cache
